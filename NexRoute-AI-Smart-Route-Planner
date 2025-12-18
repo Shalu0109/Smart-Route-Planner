@@ -1,0 +1,38 @@
+NexRoute-AI-Smart-Route-Planner/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+│
+├── data/
+│   ├── orders.csv
+│   ├── routes_distance.csv
+│   ├── vehicle_fleet.csv
+│   ├── delivery_performance.csv
+│   ├── cost_breakdown.csv
+│   ├── warehouse_inventory.csv
+│   └── customer_feedback.csv
+│
+├── src/
+│   ├── __init__.py
+│   ├── route_optimizer.py
+│   ├── data_loader.py
+│   ├── scoring_engine.py
+│   └── utils.py
+│
+├── assets/
+│   ├── architecture_diagram.png
+│   ├── dashboard_screenshots/
+│   │   ├── overview.png
+│   │   ├── route_comparison.png
+│   │   └── sustainability_view.png
+│   └── icons/
+│
+├── reports/
+│   ├── NexRoute_AI_Innovation_Brief.pdf
+│   └── sample_route_scores.csv
+│
+├── notebooks/
+│   └── exploratory_data_analysis.ipynb
+│
+└── .gitignore
